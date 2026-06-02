@@ -1,0 +1,12 @@
+# R
+.RData
+.Rhistory
+*.Rproj
+
+# Archives
+*.zip
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
